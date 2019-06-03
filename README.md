@@ -36,8 +36,8 @@ Let's get started!
 ★★☆ | [ARToolKit](#artoolkit) | ARtoolKIt is an open source tracking library for augmented reality. ARtoolKit implements the following functionalities: Single-camera or stereo-camera camera position/orientation tracking, Tracking of simple black squares, Tracking of planar images, Camera calibration and optical stereo calibration, Plugins for Unity and OpenSceneGraph, Optical head-mounted display support, Free and open source software, Fast enough for real time AR applications.
 ★☆☆ | [EasyAR](#easyar) | EasyAR is offered in both a free basic version and a Pro version at a $499 licensing fee that starts from 100 uses per day. Winner of the 2016 World Augmented Reality Expo’s Best Software Award, EasyAR is capable of simultaneously recognizing and tracking multiple 3D objects in real time. Available in versions for iOS and Android, EasyAR can be used with both PCs and mobile devices. Other benefits include the absence of watermarks and no irritating time limitations. A possible downside: some users, have reported difficulties with EasyAR’s image stability.
 ★☆☆ | [8th Wall](#8th-Wall) | True Web AR. Create rich augmented reality experiences that work on every mobile device.
-★★★ | [Lumin (Magic Leap)](#Lumin-(Magic-Leap)) | Create new worlds within our world. Trailblazers, storytellers and dream chasers — new worlds are yours for the making. Become a Magic Leap creator and start pioneering the uncharted frontier of spatial computing.
-★★★ | [MixedReality Toolkit (HoloLens)](#MixedReality-Toolkit-(HoloLens)) | MRTK-Unity provides a set of foundational components and features to accelerate MR app development in Unity. The latest Release of MRTK (V2) supports HoloLens/HoloLens 2, Windows Mixed Reality, and OpenVR platforms. Provides the basic building blocks for unity development on HoloLens, Windows Mixed Reality, and OpenVR, Showcases UX best practices with UI controls that match Windows Mixed Reality and HoloLens Shell, Enables rapid prototyping via in-editor simulation that allows you to see changes immediately, Is extensible. Provides devs ability to swap out core components and extend the framework.
+★★★ | [Lumin (Magic Leap)](#Lumin-Magic-Leap) | Create new worlds within our world. Trailblazers, storytellers and dream chasers — new worlds are yours for the making. Become a Magic Leap creator and start pioneering the uncharted frontier of spatial computing.
+★★★ | [MixedReality Toolkit (HoloLens)](#MixedReality-Toolkit-HoloLens) | MRTK-Unity provides a set of foundational components and features to accelerate MR app development in Unity. The latest Release of MRTK (V2) supports HoloLens/HoloLens 2, Windows Mixed Reality, and OpenVR platforms. Provides the basic building blocks for unity development on HoloLens, Windows Mixed Reality, and OpenVR, Showcases UX best practices with UI controls that match Windows Mixed Reality and HoloLens Shell, Enables rapid prototyping via in-editor simulation that allows you to see changes immediately, Is extensible. Provides devs ability to swap out core components and extend the framework.
 
 ## ARKIT
 - [Apple ARKit Documentation](https://developer.apple.com/documentation/arkit)
@@ -88,14 +88,14 @@ Let's get started!
 - [8th Wall Docs](https://docs.8thwall.com/)
 
 
-## Lumin (Magic Leap)
+## Lumin Magic Leap
 - [Download Lumin SDK](https://creator.magicleap.com/downloads/lumin-sdk)
 - [Magic Leap awesome resources ](https://github.com/exokitxr/awesome-magicleap)
 - [
 Magic Leap Developer Resources](https://github.com/MagicLeapDevs/MagicLeapDevResources)
 
 
-## MixedReality Toolkit (HoloLens)
+## MixedReality Toolkit HoloLens
 - [MixedRealityToolkit-Unity](https://github.com/Microsoft/MixedRealityToolkit-Unity)
 - [A Unity hololens app to detect faces and display their attributes](https://github.com/UoA-eResearch/hololens_facial_recognition)
 - [A Unity library for estimating and replicating the current environment's lighting](https://github.com/microsoft/MRLightingTools-Unity)
