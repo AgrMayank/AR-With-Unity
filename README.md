@@ -24,7 +24,7 @@ Let's get started!
 - Platform specific SDK such as Android build tools are also required.
 
 # SDK List
-| ☆ | Name | Description |
+| ☆ | Name | Description |<br>
 | --- | --- | --- |<br>
 ★★★ | [ARKit](#ARKit) |  ARKit is a unique framework that enables brands and developers to design and create unparalleled experiences for compatible iPhone and iPad devices (compatible iPhone’s and iPad’s must be equipped with an A9 processor or above). The ARKit SDK functions in the same way as most AR SDK’s function, by enabling digital information and 3D objects to be blended with the real world but offers largely unparalleled accessibility in terms of the number of existing devices that it supports.<br>
 ★★★ | [ARCore](#ARCore) | Google’s proprietary augmented reality SDK. Similar to ARKit, it enables brands and developers to get AR apps up and running on compatible Google smartphones and tablets. One of the most notable features of ARCore is that it also supports iOS-enabled devices and gives developers unparalleled access to users across both platforms.<br>
@@ -39,7 +39,7 @@ Let's get started!
 ★★★ | [Lumin (Magic Leap)](#Lumin-Magic-Leap) | Create new worlds within our world. Trailblazers, storytellers and dream chasers — new worlds are yours for the making. Become a Magic Leap creator and start pioneering the uncharted frontier of spatial computing.<br>
 ★★★ | [MixedReality Toolkit (HoloLens)](#MixedReality-Toolkit-HoloLens) | MRTK-Unity provides a set of foundational components and features to accelerate MR app development in Unity. The latest Release of MRTK (V2) supports HoloLens/HoloLens 2, Windows Mixed Reality, and OpenVR platforms. Provides the basic building blocks for unity development on HoloLens, Windows Mixed Reality, and OpenVR, Showcases UX best practices with UI controls that match Windows Mixed Reality and HoloLens Shell, Enables rapid prototyping via in-editor simulation that allows you to see changes immediately, Is extensible. Provides devs ability to swap out core components and extend the framework.
 
-## ARKIT
+## ARKit
 - [Apple ARKit Documentation](https://developer.apple.com/documentation/arkit)
 - [A curated list of awesome ARKit projects and resources. ](https://github.com/olucurious/Awesome-ARKit)
 
