@@ -101,6 +101,10 @@ Magic Leap Developer Resources](https://github.com/MagicLeapDevs/MagicLeapDevRes
 - [A Unity library for estimating and replicating the current environment's lighting](https://github.com/microsoft/MRLightingTools-Unity)
 
 
+# NOTE
+For the latest article, refer to [this Medium article.](https://medium.com/@AgrMayank/getting-started-in-augmented-reality-ar-using-unity-e450ee9a3138)
+
+
 # License
 > Open for everyone to contribute and use.
 
