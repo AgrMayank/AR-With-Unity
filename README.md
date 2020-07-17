@@ -1,10 +1,11 @@
 # AR With Unity
 
-![GitHub issues](https://img.shields.io/github/issues/AgrMayank/AgrMayank?label=Issues&style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AgrMayank/AgrMayank?label=Pull%20Requests&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/AgrMayank/AgrMayank?label=Last%20Commit&style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AgrMayank/AgrMayank?label=Commit%20Activity&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/AgrMayank/AgrMayank?label=Repo%20Size&style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/AgrMayank/AR-With-Unity?label=Issues&style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AgrMayank/AR-With-Unity?label=Pull%20Requests&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/AgrMayank/AR-With-Unity?label=Last%20Commit&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AgrMayank/AR-With-Unity?label=Commit%20Activity&style=flat-square)
+![GitHub All Releases](https://img.shields.io/github/downloads/AgrMayank/AR-With-Unity/total?label=Downloads&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AgrMayank/AR-With-Unity?label=Repo%20Size&style=flat-square)
 
 <p align="center">
   <br>
